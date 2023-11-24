@@ -1,0 +1,17 @@
+# IDE: PHPStorm
+/.idea
+.phpstorm.meta.php
+
+# IDE: VSCode
+/.vscode
+
+# IDE: Misc
+_ide_helper.php
+
+# IDE: Netbeans
+/nbproject
+
+# IDE: Eclipse
+/.settings/
+/.buildpath
+/.project
